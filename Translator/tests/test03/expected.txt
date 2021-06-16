@@ -1,0 +1,1 @@
+Code Generator: Error (line 6, column 6): using array 'B' name without index 

@@ -1,0 +1,43 @@
+data		SEGMENT
+
+A		dw
+B		dw
+C		dw
+D		dd
+
+data		ENDS
+
+
+code		SEGMENT
+			ASSUME:	cs:code, ds:data
+begin:
+
+		MOV DX, 5
+		MOV C, DX
+?L1:
+		MOV DX, D
+		MOV CX, A[DX]
+		MOV DX, B[CX]
+		MOV C, DX
+		MOV DX, D
+		MOV CX, 1
+		MOV B[CX], DX
+?L2:
+		MOV CX, 8
+		MOV DX, A[CX]
+		MOV CX, B[DX]
+		MOV DX, 1
+		MOV A[DX], CX
+		MOV DX, 3
+		MOV CX, B[DX]
+		MOV DX, 5
+		MOV A[DX], CX
+		NOP
+JMP ?L2
+		NOP
+JMP ?L1
+		NOP
+		mov	ax, 4c00h
+		int	21h
+code	ENDS
+		end	begin
