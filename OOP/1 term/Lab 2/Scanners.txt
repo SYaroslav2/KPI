@@ -1,0 +1,35 @@
+
+			SCAN_INFO
+
+         Manufacturer |   Year   |                Model |    Size |    Price |
+
+ID:    0 |        HP1 |   2004   |             JetScan7 | 210x296 |   959.99 |
+ID:    1 |      ASUS1 |   2009   |              AsScan9 | 217x297 |   299.99 |
+ID:    3 |        HP2 |   2008   |           LaserScan9 | 213x298 |   969.99 |
+ID:    4 |      ASUS2 |   2007   |              AsScan7 | 211x299 |   999.99 |
+ID:    5 |      Dell1 |   2006   |            DellScan1 | 218x295 |   979.99 |
+ID:    6 |      Dell2 |   2005   |            DellScan2 | 215x292 |   949.99 |
+
+
+			SCAN_INFO
+
+         Manufacturer |   Year   |                Model |    Size |    Price |
+
+ID:    0 |        HP1 |   2004   |             JetScan7 | 210x296 |   959.99 |
+ID:    1 |      ASUS1 |   2009   |              AsScan9 | 217x297 |   299.99 |
+ID:    3 |        HP2 |   2008   |           LaserScan9 | 213x298 |   969.99 |
+ID:    4 |      ASUS2 |   2007   |              AsScan7 | 211x299 |   999.99 |
+ID:    5 |      Dell1 |   2006   |            DellScan1 | 218x295 |   979.99 |
+ID:    6 |      Dell2 |   2005   |            DellScan2 | 215x292 |   949.99 |
+
+
+			SCAN_INFO
+
+         Manufacturer |   Year   |                Model |    Size |    Price |
+
+ID:    0 |        HP1 |   2004   |             JetScan7 | 210x296 |   959.99 |
+ID:    1 |      ASUS1 |   2009   |              AsScan9 | 217x297 |   299.99 |
+ID:    3 |        HP2 |   2008   |           LaserScan9 | 213x298 |   969.99 |
+ID:    6 |      Dell2 |   2005   |            DellScan2 | 215x292 |   949.99 |
+ID:    5 |      Dell1 |   2006   |            DellScan1 | 218x295 |   979.99 |
+
